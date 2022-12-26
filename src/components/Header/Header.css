@@ -1,0 +1,15 @@
+.header nav {
+  background-color: black;
+  padding: 10px;
+}
+.header nav a {
+  margin: 10px 10px;
+  text-decoration: none;
+  color: white;
+}
+.header nav a:hover {
+  color: goldenrod;
+}
+.header span {
+  color: white;
+}
